@@ -1,4 +1,4 @@
-PF Frontend Application
+RPF Frontend Application
 
 Overview
 This frontend application provides a simple and clean interface for creating RPFs (Request for Proposal), sending them to vendors, managing vendor responses, and viewing AI-based proposal recommendations.
